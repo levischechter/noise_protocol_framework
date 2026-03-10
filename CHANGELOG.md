@@ -46,3 +46,7 @@
 ## 1.1.0
 
 * bump dependencies
+
+## 1.2.0
+
+* repo owner change
